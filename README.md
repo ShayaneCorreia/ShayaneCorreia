@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I am Shayane, how are u?
 
-- 🌱 I’m currently learning Ionic 3
+- 🌱 I’m currently learning React Native
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to read books, but when i find a new one i finish it in one day.
 - Languages: <br>
